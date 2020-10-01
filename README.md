@@ -1,4 +1,5 @@
-legipy
+legipy - The command-line script `legipy` gives access to service commands from the command line and outputs data in JSON format.
+
 ======
 
 [![Build Status](https://travis-ci.org/regardscitoyens/legipy.svg?branch=master)](https://travis-ci.org/regardscitoyens/legipy)
